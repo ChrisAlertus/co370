@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 12.4 Data
+ * Author: wningchu
+ * Creation Date: 2014-01-28 at 10:10:50 AM
+ *********************************************/
+
+SunflowerCost = 50;
+PeashooterCost = 100;
+SunflowerBenefit = 0.005;
+NbPeriods = 10;
+StartingSuns = 50;
+StartingSunflowers = 0;
+StartingPeashooters = 0;
+SunflowerGain = 50;
+MaxS = 3;
+MaxP = 2;
+MaxPlants = 20;

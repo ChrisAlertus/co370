@@ -1,0 +1,44 @@
+/*********************************************
+ * OPL 12.4 Data
+ * Author: cvalert
+ * Creation Date: Mar 26, 2014 at 9:40:07 PM
+ *********************************************/
+
+nweeks = 17;
+ndivisions = 8;
+days = {"Thursday","Sunday","Monday"};
+derby = 20;
+bweeks = 10;
+f = 100;
+specialweeks = {13,16,17};
+
+afcn = {"Baltimore Ravens","Cincinnati Bengals" ,"Cleveland Browns" ,"Pittsburgh Steelers"};
+afcs = {"Houston Texans","Indianapolis Colts" ,"Jacksonville Jaguars","Tennessee Titans"};
+afce = {"Buffalo Bills" ,"Miami Dolphins","New England Patriots","New York Jets"};
+afcw = {"Denver Broncos","Kansas City Chiefs","Oakland Raiders","San Diego Chargers"};
+
+nfcn = {"Chicago Bears","Detroit Lions","Green Bay Packers","Minnesota Vikings"};
+nfcs = {"Atlanta Falcons","Carolina Panthers","New Orleans Saints","Tampa Bay Buccaneers"};
+nfce = {"Dallas Cowboys","New York Giants","Philadelphia Eagles","Washington Redskins"};
+nfcw = {"Arizona Cardinals","San Francisco 49ers","Seattle Seahawks","St. Louis Rams"};
+
+//nfce = {"Dallas Cowboys","New York Giants","Philadelphia Eagles","Washington Redskins"};
+//afce = {"Buffalo Bills" ,"Miami Dolphins","New England Patriots","New York Jets"};
+//afcn = {"Cleveland Browns" ,"Pittsburgh Steelers"};
+//afcs = {"Jacksonville Jaguars","Tennessee Titans"};
+//afcw = {"Oakland Raiders","San Diego Chargers"};
+
+//nfcn = {"Green Bay Packers","Minnesota Vikings"};
+//nfcs = {"New Orleans Saints","Tampa Bay Buccaneers"};
+//nfcw = {"Seattle Seahawks","St. Louis Rams"};
+
+
+
+divisions = [{"Baltimore Ravens","Cincinnati Bengals" ,"Cleveland Browns" ,"Pittsburgh Steelers"},
+              {"Houston Texans","Indianapolis Colts" ,"Jacksonville Jaguars","Tennessee Titans"},
+              {"Buffalo Bills" ,"Miami Dolphins","New England Patriots","New York Jets"},
+              {"Denver Broncos","Kansas City Chiefs","Oakland Raiders","San Diego Chargers"},
+              {"Chicago Bears","Detroit Lions","Green Bay Packers","Minnesota Vikings"},
+              {"Atlanta Falcons","Carolina Panthers","New Orleans Saints","Tampa Bay Buccaneers"},
+              {"Dallas Cowboys","New York Giants","Philadelphia Eagles","Washington Redskins"},
+              {"Arizona Cardinals","San Francisco 49ers","Seattle Seahawks","St. Louis Rams"}];

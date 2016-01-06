@@ -1,0 +1,43 @@
+/*********************************************
+ * OPL 12.4 Data
+ * Author: rfukasaw
+ * Creation Date: Mar 5, 2014 at 11:37:39 AM
+ *********************************************/
+
+Products = {"Candy cane", "Mentos", "Lollipop", "Chocolate" };
+
+Resources = {"Sugar","Labor"};
+
+// Enters the matrix a, with the corresponding entries for "Sugar" and "Labor"
+a = #[ "Sugar": #["Candy cane": 2.5,
+                  "Mentos": 1.4,
+                  "Lollipop": 0.5,
+                  "Chocolate":2.3]#,
+       "Labor": #["Candy cane": 1.6,
+                  "Mentos": 2.4,
+                  "Lollipop": 1.5,
+                  "Chocolate":1.7]# ]#;           
+                  
+// Enters the right hand side b                  
+b = #[ "Sugar" : 30.0,
+       "Labor" : 35.0 ]#;      
+
+ndays = 5;     
+
+// Enters 5 values for each product, one per day       
+c = #["Candy cane": [ 2.5, 2, 1.5, 4, 5 ],
+          "Mentos": [ 5,   1, 3 , 1.3, 5.1 ],
+        "Lollipop": [ 3.5, 1.2, 2.5, 5.1, 1.2 ],
+       "Chocolate": [ 3.5, 2.2, 0.5, 4.5, 5.1 ]  ]#;                   
+
+f = #["Candy cane": 1,
+          "Mentos": 15,
+        "Lollipop": 12,
+       "Chocolate": 10  ]#; 
+
+maxqty = [ 5, 5, 5, 5, 5 ]; 
+       
+
+
+
+ 

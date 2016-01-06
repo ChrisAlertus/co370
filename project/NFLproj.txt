@@ -1,0 +1,226 @@
+/*********************************************
+ * OPL 12.4 Model
+ * Author: cvalert
+ * Creation Date: Mar 26, 2014 at 9:40:07 PM
+ *********************************************/
+
+{string} afcn = ...;
+{string} afcs = ...;
+{string} afce = ...;
+{string} afcw = ...;
+{string} nfcn = ...;
+{string} nfcs = ...;
+{string} nfce = ...;
+{string} nfcw = ...;
+
+{string} teams = afcn union afcs union afce union
+        afcw union nfcn union nfcs union
+        nfce union nfcw;
+
+int nweeks = ...;
+int f = ...;
+int derby = ...;
+int bweeks = ...;
+int ndivisions = ...;
+
+range weeks = 1..nweeks;
+range byeweeks = 3..bweeks;
+range gapweeks = 1..10;
+{int} specialweeks = ...;
+
+{string} days = ...;
+{string} divisions[1..ndivisions] = ...;
+
+ dvar boolean game[teams][teams][weeks][days];
+ 
+ maximize 
+    sum (v in 1..ndivisions,i in teams: i in divisions[v],j in teams: j in divisions[v],d in days,w in weeks)
+        ( derby * game[i][j][w][d] * 2*(w - 1) 
+
+      +
+
+      sum (j in teams: j not in divisions[v],d in days,w in weeks) game[i][j][w][d] * 2*(w - 1) 
+      )     
+      +
+
+        sum (w in weeks,d in days) (f - 1) * game["New England Patriots"]["Philadelphia Eagles"][w][d] * 2 * (w - 1) 
+        
+            
+      -
+
+      sum (i in teams,w in weeks,d in days) derby * game[i][i][w][d] * 2 * (w - 1) ;
+
+  subject to {
+
+    forall (i in teams) ctr4:
+      sum (j in teams, d in days,w in weeks) game[i][j][w][d] == 17; 
+    
+    forall (i in teams) ctr5:
+      sum(w in weeks,d in days) game[i][i][w][d] == 1;
+
+    forall (i in teams)
+      forall (j in  teams: i != j)
+        forall(w in weeks) ctr6:
+          sum(d in days) game[i][j][w][d] <= 1;
+
+    forall (i in teams) ctr7:
+      sum(w in weeks: w not in byeweeks,d in days) game[i][i][w][d] == 0;
+
+    forall (w in weeks: w not in specialweeks) ctr8:
+      sum(i in teams,j in teams) game[i][j][w]["Monday"] == 1;
+
+    forall (w in weeks: w not in specialweeks) 
+      sum(i in teams,j in teams) game[i][j][w]["Thursday"] == 1;
+
+    sum(i in teams,j in teams) game[i][j][13]["Thursday"] == 3;
+    sum(i in teams,j in teams) game[i][j][13]["Monday"] == 1;    
+
+    sum(i in teams,j in teams) game[i][j][16]["Thursday"] == 0;
+    sum(i in teams,j in teams) game[i][j][16]["Monday"] == 1;
+
+    sum(i in teams,j in teams) game[i][j][17]["Thursday"] == 0;
+    sum(i in teams,j in teams) game[i][j][17]["Monday"] == 0;
+
+    forall(i in teams) ctr10:
+        sum(w in weeks,d in days,j in teams: i != j) game[i][j][w][d] <= 2;
+
+    forall(i in teams)
+      forall(j in teams: i != j)
+        forall(v in 1..ndivisions) ctr11:
+          sum(w in weeks,d in days, i in divisions[v],j in divisions[v]) game[i][j][w][d] == 2;
+
+    forall(i in teams,j in teams: i != j) ctr12:
+        sum(w in weeks,d in days) ( game[i][j][w][d] + game[j][i][w][d]) <= 2;
+
+    forall(i in teams,j in teams: i != j) 
+        sum(w in weeks,d in days) game[i][j][w][d] <= 1;    
+
+    forall(w in gapweeks, i in teams,j in teams) ctr13:
+        sum(w in w..w+7,d in days) game[i][j][w][d] <= 1;
+
+    forall(i in teams: i != "New York Jets",j in teams:i != j && j != "New York Giants",w in weeks) ctr14:
+        sum(d in days) (game["New York Giants"][i][w][d] + game["New York Jets"][j][w][d]) <= 1;
+
+    forall(i in teams,j in teams: i != j) ctr15:
+        sum(w in weeks) game[i][j][w]["Thursday"] >= 1;
+
+    forall(i in teams,j in teams: i != j)
+        sum(w in weeks) game[i][j][w]["Monday"] >= 1;
+
+    forall(i in teams,j in teams: i != j, w in weeks: w < 17) ctr16:
+        game[i][j][w]["Monday"] + game[i][j][w+1]["Thursday"] <= 1 ;
+
+  }
+
+// TO EDIT:
+
+execute
+{
+    var i, j, w, d;
+    // Let us write a nice formatted output
+    writeln( "****************************************" );
+    writeln( " FORMATTED OUTPUT " );
+    writeln( "****************************************" );
+    //for( i in teams )
+    //{
+    //   if( ctr[i].slack == 0 )
+    //   {
+    //      writeln( "Constraint for ", i, " is tight!");
+    //   }
+    //}  
+    writeln( "*****************************" );
+    writeln( " INFORMATION PER WEEK " );
+    writeln( "*****************************" );     
+    for( w in weeks )
+    {
+       writeln( "Week ", w, "games played on:" );
+       // NOTE: For some weird reason this does not work if
+       // I use     for( d in 1..ndays )
+       // I need to use the defined    range days = 1..ndays that I had above
+       for( d in days)
+       {
+          for(i in teams){
+              for( j in teams){
+                if( game[i][j][w][d] == 1 )
+                {
+                   writeln( "  Day ", d, ": Matchup:", i, "versus", j );
+                }            
+             }
+        }
+      }                  
+    }
+    writeln( "*****************************" );
+    writeln( " INFORMATION PER TEAM " );
+    writeln( "*****************************" );
+    // NOTE: For some weird reason this does not work if
+    // I use     for( d in 1..ndays )
+    // I need to use the defined    range days = 1..ndays that I had above
+    for( i in teams )
+    {
+       writeln( "Team ", i, "  : Games played at home");
+        for(w in weeks){ 
+           for( j in teams ){
+              for(d in days){
+                 {
+                    if( game[i][j][w][d] == 1 )
+                    {
+                       writeln( "  Home Team ", i, "played : ",j," on Week:",w ,"on Day:",d );
+                    }            
+                 }
+              } 
+            }        
+       }
+
+       writeln( "Team ", i, "  : Games played away");
+        for(w in weeks){ 
+           for( j in teams ){
+              for(d in days){
+                 {
+                    if( game[j][i][w][d] == 1 )
+                    {
+                       writeln( "  Away Team ", i, "played : ",j," on Week:",w ,"on Day:",d );
+                    }            
+                 }
+              } 
+            }        
+       }
+    }
+} 
+  
+  // if a team plays one team they cant play another same week
+  // 
+
+  /////////////////////////////////////////////////////
+
+ /*********************************************
+ * OPL 12.4 Data
+ * Author: cvalert
+ * Creation Date: Mar 26, 2014 at 9:40:07 PM
+ *********************************************/
+
+nweeks = 17;
+ndivisions = 8;
+days = {"Thursday","Sunday","Monday"};
+derby = 20;
+bweeks = 10;
+f = 100;
+specialweeks = {13,16,17};
+
+afcn = {"Baltimore Ravens","Cincinnati Bengals" ,"Cleveland Browns" ,"Pittsburgh Steelers"};
+afcs = {"Houston Texans","Indianapolis Colts" ,"Jacksonville Jaguars","Tennessee Titans"};
+afce = {"Buffalo Bills" ,"Miami Dolphins","New England Patriots","New York Jets"};
+afcw = {"Denver Broncos","Kansas City Chiefs","Oakland Raiders","San Diego Chargers"};
+
+nfcn = {"Chicago Bears","Detroit Lions","Green Bay Packers","Minnesota Vikings"};
+nfcs = {"Atlanta Falcons","Carolina Panthers","New Orleans Saints","Tampa Bay Buccaneers"};
+nfce = {"Dallas Cowboys","New York Giants","Philadelphia Eagles","Washington Redskins"};
+nfcw = {"Arizona Cardinals","San Francisco 49ers","Seattle Seahawks","St. Louis Rams"};
+
+divisions = [{"Baltimore Ravens","Cincinnati Bengals" ,"Cleveland Browns" ,"Pittsburgh Steelers"},
+              {"Houston Texans","Indianapolis Colts" ,"Jacksonville Jaguars","Tennessee Titans"},
+              {"Buffalo Bills" ,"Miami Dolphins","New England Patriots","New York Jets"},
+              {"Denver Broncos","Kansas City Chiefs","Oakland Raiders","San Diego Chargers"},
+              {"Chicago Bears","Detroit Lions","Green Bay Packers","Minnesota Vikings"},
+              {"Atlanta Falcons","Carolina Panthers","New Orleans Saints","Tampa Bay Buccaneers"},
+              {"Arizona Cardinals","San Francisco 49ers","Seattle Seahawks","St. Louis Rams"}];
+

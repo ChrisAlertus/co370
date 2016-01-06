@@ -1,0 +1,309 @@
+  Home Team Washington Redskinsplayed : Green Bay Packers on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Minnesota Vikings on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Atlanta Falcons on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Carolina Panthers on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : New Orleans Saints on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : New York Giants on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Arizona Cardinals on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : San Francisco 49ers on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Seattle Seahawks on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : St. Louis Rams on Week:1on Day:Monday
+  Home Team Washington Redskinsplayed : Washington Redskins on Week:3on Day:Thursday
+Team Washington Redskins  : Games played away
+  Away Team Washington Redskinsplayed : Baltimore Ravens on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Cleveland Browns on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Houston Texans on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Indianapolis Colts on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Tennessee Titans on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Buffalo Bills on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Miami Dolphins on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : New England Patriots on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : New York Jets on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Denver Broncos on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Oakland Raiders on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : San Diego Chargers on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Chicago Bears on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Detroit Lions on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Green Bay Packers on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Minnesota Vikings on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Arizona Cardinals on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : San Francisco 49ers on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Seattle Seahawks on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : St. Louis Rams on Week:1on Day:Monday
+  Away Team Washington Redskinsplayed : Washington Redskins on Week:3on Day:Thursday
+  Away Team Washington Redskinsplayed : Atlanta Falcons on Week:6on Day:Monday
+  Away Team Washington Redskinsplayed : Carolina Panthers on Week:6on Day:Monday
+  Away Team Washington Redskinsplayed : New Orleans Saints on Week:10on Day:Monday
+  Away Team Washington Redskinsplayed : New York Giants on Week:14on Day:Monday
+Team Arizona Cardinals  : Games played at home
+  Home Team Arizona Cardinalsplayed : Baltimore Ravens on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Cleveland Browns on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Houston Texans on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Indianapolis Colts on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Tennessee Titans on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Buffalo Bills on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Miami Dolphins on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : New England Patriots on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : New York Jets on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Denver Broncos on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Oakland Raiders on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : San Diego Chargers on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Chicago Bears on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Detroit Lions on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Green Bay Packers on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Minnesota Vikings on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Atlanta Falcons on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Carolina Panthers on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : New Orleans Saints on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : New York Giants on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Washington Redskins on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : San Francisco 49ers on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Seattle Seahawks on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : St. Louis Rams on Week:1on Day:Monday
+  Home Team Arizona Cardinalsplayed : Arizona Cardinals on Week:14on Day:Thursday
+Team Arizona Cardinals  : Games played away
+  Away Team Arizona Cardinalsplayed : Baltimore Ravens on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Cleveland Browns on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Houston Texans on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Indianapolis Colts on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Tennessee Titans on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Buffalo Bills on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Miami Dolphins on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : New England Patriots on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Denver Broncos on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Oakland Raiders on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : San Diego Chargers on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Chicago Bears on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Detroit Lions on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Green Bay Packers on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Minnesota Vikings on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Washington Redskins on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : San Francisco 49ers on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : Seattle Seahawks on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : St. Louis Rams on Week:1on Day:Monday
+  Away Team Arizona Cardinalsplayed : New York Giants on Week:3on Day:Monday
+  Away Team Arizona Cardinalsplayed : New York Jets on Week:4on Day:Monday
+  Away Team Arizona Cardinalsplayed : Atlanta Falcons on Week:4on Day:Monday
+  Away Team Arizona Cardinalsplayed : New Orleans Saints on Week:4on Day:Monday
+  Away Team Arizona Cardinalsplayed : Carolina Panthers on Week:6on Day:Monday
+  Away Team Arizona Cardinalsplayed : Arizona Cardinals on Week:14on Day:Thursday
+Team San Francisco 49ers  : Games played at home
+  Home Team San Francisco 49ersplayed : Baltimore Ravens on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Cleveland Browns on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Houston Texans on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Indianapolis Colts on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Tennessee Titans on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Buffalo Bills on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Miami Dolphins on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : New England Patriots on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : New York Jets on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Denver Broncos on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Oakland Raiders on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : San Diego Chargers on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Chicago Bears on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Detroit Lions on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Green Bay Packers on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Minnesota Vikings on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Atlanta Falcons on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Carolina Panthers on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : New Orleans Saints on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Dallas Cowboys on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : New York Giants on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Washington Redskins on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Arizona Cardinals on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : Seattle Seahawks on Week:1on Day:Monday
+  Home Team San Francisco 49ersplayed : St. Louis Rams on Week:1on Day:Monday
+Team San Francisco 49ers  : Games played away
+  Away Team San Francisco 49ersplayed : Baltimore Ravens on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Cleveland Browns on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Houston Texans on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Indianapolis Colts on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Tennessee Titans on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Buffalo Bills on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Miami Dolphins on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : New England Patriots on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Denver Broncos on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Oakland Raiders on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : San Diego Chargers on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Chicago Bears on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Detroit Lions on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Green Bay Packers on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Minnesota Vikings on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Dallas Cowboys on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Washington Redskins on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Arizona Cardinals on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : Seattle Seahawks on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : St. Louis Rams on Week:1on Day:Monday
+  Away Team San Francisco 49ersplayed : New York Jets on Week:2on Day:Monday
+  Away Team San Francisco 49ersplayed : Carolina Panthers on Week:2on Day:Monday
+  Away Team San Francisco 49ersplayed : Atlanta Falcons on Week:4on Day:Monday
+  Away Team San Francisco 49ersplayed : New Orleans Saints on Week:4on Day:Monday
+  Away Team San Francisco 49ersplayed : New York Giants on Week:7on Day:Monday
+Team Seattle Seahawks  : Games played at home
+  Home Team Seattle Seahawksplayed : Baltimore Ravens on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Cleveland Browns on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Houston Texans on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Indianapolis Colts on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Tennessee Titans on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Buffalo Bills on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Miami Dolphins on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : New England Patriots on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : New York Jets on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Denver Broncos on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Oakland Raiders on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : San Diego Chargers on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Chicago Bears on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Detroit Lions on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Green Bay Packers on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Minnesota Vikings on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Atlanta Falcons on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Carolina Panthers on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : New Orleans Saints on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Dallas Cowboys on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : New York Giants on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Washington Redskins on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Arizona Cardinals on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : San Francisco 49ers on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : St. Louis Rams on Week:1on Day:Monday
+  Home Team Seattle Seahawksplayed : Seattle Seahawks on Week:12on Day:Thursday
+Team Seattle Seahawks  : Games played away
+  Away Team Seattle Seahawksplayed : Baltimore Ravens on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Cleveland Browns on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Houston Texans on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Indianapolis Colts on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Tennessee Titans on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Buffalo Bills on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Miami Dolphins on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : New England Patriots on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Denver Broncos on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Oakland Raiders on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : San Diego Chargers on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Chicago Bears on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Detroit Lions on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Green Bay Packers on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Carolina Panthers on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Dallas Cowboys on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Washington Redskins on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : Arizona Cardinals on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : San Francisco 49ers on Week:1on Day:Monday
+  Away Team Seattle Seahawksplayed : New York Jets on Week:2on Day:Monday
+  Away Team Seattle Seahawksplayed : New York Giants on Week:3on Day:Monday
+  Away Team Seattle Seahawksplayed : Atlanta Falcons on Week:4on Day:Monday
+  Away Team Seattle Seahawksplayed : New Orleans Saints on Week:4on Day:Monday
+  Away Team Seattle Seahawksplayed : St. Louis Rams on Week:9on Day:Monday
+  Away Team Seattle Seahawksplayed : Minnesota Vikings on Week:12on Day:Monday
+  Away Team Seattle Seahawksplayed : Seattle Seahawks on Week:12on Day:Thursday
+Team St. Louis Rams  : Games played at home
+  Home Team St. Louis Ramsplayed : Baltimore Ravens on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Cleveland Browns on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Houston Texans on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Indianapolis Colts on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Tennessee Titans on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Buffalo Bills on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Miami Dolphins on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : New England Patriots on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : New York Jets on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Denver Broncos on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Oakland Raiders on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : San Diego Chargers on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Chicago Bears on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Detroit Lions on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Green Bay Packers on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Minnesota Vikings on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Atlanta Falcons on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Carolina Panthers on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : New Orleans Saints on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : New York Giants on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Washington Redskins on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : Arizona Cardinals on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : San Francisco 49ers on Week:1on Day:Monday
+  Home Team St. Louis Ramsplayed : St. Louis Rams on Week:6on Day:Thursday
+  Home Team St. Louis Ramsplayed : Seattle Seahawks on Week:9on Day:Monday
+Team St. Louis Rams  : Games played away
+  Away Team St. Louis Ramsplayed : Baltimore Ravens on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Cincinnati Bengals on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Cleveland Browns on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Pittsburgh Steelers on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Houston Texans on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Indianapolis Colts on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Jacksonville Jaguars on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Tennessee Titans on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Buffalo Bills on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Miami Dolphins on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : New England Patriots on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : New York Jets on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Denver Broncos on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Oakland Raiders on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : San Diego Chargers on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Chicago Bears on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Detroit Lions on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Green Bay Packers on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Carolina Panthers on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Tampa Bay Buccaneers on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Philadelphia Eagles on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Washington Redskins on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Arizona Cardinals on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : San Francisco 49ers on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : Seattle Seahawks on Week:1on Day:Monday
+  Away Team St. Louis Ramsplayed : New Orleans Saints on Week:3on Day:Monday
+  Away Team St. Louis Ramsplayed : New York Giants on Week:3on Day:Monday
+  Away Team St. Louis Ramsplayed : Minnesota Vikings on Week:4on Day:Monday
+  Away Team St. Louis Ramsplayed : Atlanta Falcons on Week:4on Day:Monday
+  Away Team St. Louis Ramsplayed : St. Louis Rams on Week:6on Day:Thursday

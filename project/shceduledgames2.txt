@@ -1,0 +1,583 @@
+// solution (feasible relaxed sum of infeasibilities) with objective 31.0000000000001
+****************************************
+ FORMATTED OUTPUT 
+****************************************
+*****************************
+ INFORMATION PER TEAM 
+*****************************
+Team Baltimore Ravens  : Games played at home
+  Home Team Baltimore Ravensplayed : Indianapolis Colts on Week:2on Day:Monday
+  Home Team Baltimore Ravensplayed : Cincinnati Bengals on Week:6on Day:Sunday
+  Home Team Baltimore Ravensplayed : Washington Redskins on Week:7on Day:Sunday
+  Home Team Baltimore Ravensplayed : Philadelphia Eagles on Week:10on Day:Sunday
+  Home Team Baltimore Ravensplayed : Cleveland Browns on Week:11on Day:Sunday
+  Home Team Baltimore Ravensplayed : Denver Broncos on Week:15on Day:Sunday
+  Home Team Baltimore Ravensplayed : Carolina Panthers on Week:16on Day:Sunday
+  Home Team Baltimore Ravensplayed : Pittsburgh Steelers on Week:17on Day:Sunday
+Team Baltimore Ravens  : Games played away
+  Away Team Baltimore Ravensplayed : Pittsburgh Steelers on Week:1on Day:Sunday
+  Away Team Baltimore Ravensplayed : San Francisco 49ers on Week:3on Day:Sunday
+  Away Team Baltimore Ravensplayed : Cincinnati Bengals on Week:4on Day:Sunday
+  Away Team Baltimore Ravensplayed : Minnesota Vikings on Week:5on Day:Sunday
+  Away Team Baltimore Ravensplayed : Carolina Panthers on Week:8on Day:Sunday
+  Away Team Baltimore Ravensplayed : Cleveland Browns on Week:12on Day:Sunday
+  Away Team Baltimore Ravensplayed : Green Bay Packers on Week:13on Day:Sunday
+  Away Team Baltimore Ravensplayed : Denver Broncos on Week:14on Day:Sunday
+Team Cincinnati Bengals  : Games played at home
+  Home Team Cincinnati Bengalsplayed : New York Jets on Week:1on Day:Sunday
+  Home Team Cincinnati Bengalsplayed : Baltimore Ravens on Week:4on Day:Sunday
+  Home Team Cincinnati Bengalsplayed : Pittsburgh Steelers on Week:8on Day:Sunday
+  Home Team Cincinnati Bengalsplayed : Miami Dolphins on Week:9on Day:Monday
+  Home Team Cincinnati Bengalsplayed : Cleveland Browns on Week:10on Day:Sunday
+  Home Team Cincinnati Bengalsplayed : Carolina Panthers on Week:11on Day:Thursday
+  Home Team Cincinnati Bengalsplayed : Seattle Seahawks on Week:14on Day:Sunday
+  Home Team Cincinnati Bengalsplayed : Oakland Raiders on Week:16on Day:Sunday
+Team Cincinnati Bengals  : Games played away
+  Away Team Cincinnati Bengalsplayed : Oakland Raiders on Week:2on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : Miami Dolphins on Week:3on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : Baltimore Ravens on Week:6on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : St. Louis Rams on Week:7on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : Pittsburgh Steelers on Week:12on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : Atlanta Falcons on Week:13on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : San Diego Chargers on Week:15on Day:Sunday
+  Away Team Cincinnati Bengalsplayed : Cleveland Browns on Week:17on Day:Sunday
+Team Cleveland Browns  : Games played at home
+  Home Team Cleveland Brownsplayed : Buffalo Bills on Week:4on Day:Sunday
+  Home Team Cleveland Brownsplayed : New Orleans Saints on Week:5on Day:Sunday
+  Home Team Cleveland Brownsplayed : Chicago Bears on Week:6on Day:Monday
+  Home Team Cleveland Brownsplayed : Baltimore Ravens on Week:12on Day:Sunday
+  Home Team Cleveland Brownsplayed : St. Louis Rams on Week:14on Day:Sunday
+  Home Team Cleveland Brownsplayed : Atlanta Falcons on Week:15on Day:Thursday
+  Home Team Cleveland Brownsplayed : Pittsburgh Steelers on Week:16on Day:Sunday
+  Home Team Cleveland Brownsplayed : Cincinnati Bengals on Week:17on Day:Sunday
+Team Cleveland Browns  : Games played away
+  Away Team Cleveland Brownsplayed : Atlanta Falcons on Week:1on Day:Sunday
+  Away Team Cleveland Brownsplayed : Arizona Cardinals on Week:2on Day:Sunday
+  Away Team Cleveland Brownsplayed : Buffalo Bills on Week:7on Day:Sunday
+  Away Team Cleveland Brownsplayed : Miami Dolphins on Week:8on Day:Sunday
+  Away Team Cleveland Brownsplayed : Denver Broncos on Week:9on Day:Thursday
+  Away Team Cleveland Brownsplayed : Cincinnati Bengals on Week:10on Day:Sunday
+  Away Team Cleveland Brownsplayed : Baltimore Ravens on Week:11on Day:Sunday
+  Away Team Cleveland Brownsplayed : Pittsburgh Steelers on Week:13on Day:Sunday
+Team Pittsburgh Steelers  : Games played at home
+  Home Team Pittsburgh Steelersplayed : Baltimore Ravens on Week:1on Day:Sunday
+  Home Team Pittsburgh Steelersplayed : Tennessee Titans on Week:2on Day:Sunday
+  Home Team Pittsburgh Steelersplayed : St. Louis Rams on Week:5on Day:Sunday
+  Home Team Pittsburgh Steelersplayed : Tampa Bay Buccaneers on Week:6on Day:Monday
+  Home Team Pittsburgh Steelersplayed : Detroit Lions on Week:10on Day:Sunday
+  Home Team Pittsburgh Steelersplayed : Cincinnati Bengals on Week:12on Day:Sunday
+  Home Team Pittsburgh Steelersplayed : Cleveland Browns on Week:13on Day:Sunday
+  Home Team Pittsburgh Steelersplayed : Arizona Cardinals on Week:14on Day:Sunday
+Team Pittsburgh Steelers  : Games played away
+  Away Team Pittsburgh Steelersplayed : Seattle Seahawks on Week:3on Day:Thursday
+  Away Team Pittsburgh Steelersplayed : Chicago Bears on Week:4on Day:Sunday
+  Away Team Pittsburgh Steelersplayed : Cincinnati Bengals on Week:8on Day:Sunday
+  Away Team Pittsburgh Steelersplayed : Philadelphia Eagles on Week:9on Day:Sunday
+  Away Team Pittsburgh Steelersplayed : Indianapolis Colts on Week:11on Day:Sunday
+  Away Team Pittsburgh Steelersplayed : New England Patriots on Week:15on Day:Sunday
+  Away Team Pittsburgh Steelersplayed : Cleveland Browns on Week:16on Day:Sunday
+  Away Team Pittsburgh Steelersplayed : Baltimore Ravens on Week:17on Day:Sunday
+Team Houston Texans  : Games played at home
+  Home Team Houston Texansplayed : Indianapolis Colts on Week:1on Day:Sunday
+  Home Team Houston Texansplayed : Atlanta Falcons on Week:4on Day:Sunday
+  Home Team Houston Texansplayed : Tennessee Titans on Week:8on Day:Sunday
+  Home Team Houston Texansplayed : San Francisco 49ers on Week:12on Day:Sunday
+  Home Team Houston Texansplayed : Seattle Seahawks on Week:13on Day:Sunday
+  Home Team Houston Texansplayed : Minnesota Vikings on Week:14on Day:Sunday
+  Home Team Houston Texansplayed : Green Bay Packers on Week:15on Day:Monday
+  Home Team Houston Texansplayed : Jacksonville Jaguars on Week:16on Day:Sunday
+Team Houston Texans  : Games played away
+  Away Team Houston Texansplayed : Miami Dolphins on Week:2on Day:Monday
+  Away Team Houston Texansplayed : St. Louis Rams on Week:3on Day:Monday
+  Away Team Houston Texansplayed : Philadelphia Eagles on Week:6on Day:Monday
+  Away Team Houston Texansplayed : Indianapolis Colts on Week:7on Day:Sunday
+  Away Team Houston Texansplayed : Minnesota Vikings on Week:9on Day:Sunday
+  Away Team Houston Texansplayed : Tennessee Titans on Week:10on Day:Sunday
+  Away Team Houston Texansplayed : Jacksonville Jaguars on Week:11on Day:Sunday
+  Away Team Houston Texansplayed : New York Jets on Week:17on Day:Sunday
+Team Indianapolis Colts  : Games played at home
+  Home Team Indianapolis Coltsplayed : Arizona Cardinals on Week:3on Day:Sunday
+  Home Team Indianapolis Coltsplayed : Detroit Lions on Week:6on Day:Sunday
+  Home Team Indianapolis Coltsplayed : Houston Texans on Week:7on Day:Sunday
+  Home Team Indianapolis Coltsplayed : New York Giants on Week:10on Day:Monday
+  Home Team Indianapolis Coltsplayed : Pittsburgh Steelers on Week:11on Day:Sunday
+  Home Team Indianapolis Coltsplayed : Miami Dolphins on Week:13on Day:Sunday
+  Home Team Indianapolis Coltsplayed : Jacksonville Jaguars on Week:14on Day:Sunday
+  Home Team Indianapolis Coltsplayed : Tennessee Titans on Week:17on Day:Sunday
+Team Indianapolis Colts  : Games played away
+  Away Team Indianapolis Coltsplayed : Houston Texans on Week:1on Day:Sunday
+  Away Team Indianapolis Coltsplayed : Baltimore Ravens on Week:2on Day:Monday
+  Away Team Indianapolis Coltsplayed : Tennessee Titans on Week:5on Day:Sunday
+  Away Team Indianapolis Coltsplayed : Jacksonville Jaguars on Week:8on Day:Sunday
+  Away Team Indianapolis Coltsplayed : Kansas City Chiefs on Week:9on Day:Sunday
+  Away Team Indianapolis Coltsplayed : Green Bay Packers on Week:12on Day:Sunday
+  Away Team Indianapolis Coltsplayed : New Orleans Saints on Week:15on Day:Monday
+  Away Team Indianapolis Coltsplayed : San Francisco 49ers on Week:16on Day:Sunday
+Team Jacksonville Jaguars  : Games played at home
+  Home Team Jacksonville Jaguarsplayed : Minnesota Vikings on Week:2on Day:Sunday
+  Home Team Jacksonville Jaguarsplayed : New York Giants on Week:4on Day:Sunday
+  Home Team Jacksonville Jaguarsplayed : Tennessee Titans on Week:6on Day:Sunday
+  Home Team Jacksonville Jaguarsplayed : Green Bay Packers on Week:7on Day:Monday
+  Home Team Jacksonville Jaguarsplayed : Indianapolis Colts on Week:8on Day:Sunday
+  Home Team Jacksonville Jaguarsplayed : Houston Texans on Week:11on Day:Sunday
+  Home Team Jacksonville Jaguarsplayed : Philadelphia Eagles on Week:12on Day:Sunday
+  Home Team Jacksonville Jaguarsplayed : Denver Broncos on Week:17on Day:Sunday
+Team Jacksonville Jaguars  : Games played away
+  Away Team Jacksonville Jaguarsplayed : New Orleans Saints on Week:1on Day:Sunday
+  Away Team Jacksonville Jaguarsplayed : Carolina Panthers on Week:3on Day:Sunday
+  Away Team Jacksonville Jaguarsplayed : Dallas Cowboys on Week:9on Day:Sunday
+  Away Team Jacksonville Jaguarsplayed : Green Bay Packers on Week:10on Day:Sunday
+  Away Team Jacksonville Jaguarsplayed : Tennessee Titans on Week:13on Day:Monday
+  Away Team Jacksonville Jaguarsplayed : Indianapolis Colts on Week:14on Day:Sunday
+  Away Team Jacksonville Jaguarsplayed : Tampa Bay Buccaneers on Week:15on Day:Sunday
+  Away Team Jacksonville Jaguarsplayed : Houston Texans on Week:16on Day:Sunday
+Team Tennessee Titans  : Games played at home
+  Home Team Tennessee Titansplayed : Buffalo Bills on Week:1on Day:Sunday
+  Home Team Tennessee Titansplayed : Washington Redskins on Week:4on Day:Sunday
+  Home Team Tennessee Titansplayed : Indianapolis Colts on Week:5on Day:Sunday
+  Home Team Tennessee Titansplayed : New England Patriots on Week:7on Day:Sunday
+  Home Team Tennessee Titansplayed : Houston Texans on Week:10on Day:Sunday
+  Home Team Tennessee Titansplayed : St. Louis Rams on Week:11on Day:Sunday
+  Home Team Tennessee Titansplayed : Jacksonville Jaguars on Week:13on Day:Monday
+  Home Team Tennessee Titansplayed : Miami Dolphins on Week:14on Day:Sunday
+Team Tennessee Titans  : Games played away
+  Away Team Tennessee Titansplayed : Pittsburgh Steelers on Week:2on Day:Sunday
+  Away Team Tennessee Titansplayed : Jacksonville Jaguars on Week:6on Day:Sunday
+  Away Team Tennessee Titansplayed : Houston Texans on Week:8on Day:Sunday
+  Away Team Tennessee Titansplayed : New Orleans Saints on Week:9on Day:Sunday
+  Away Team Tennessee Titansplayed : Kansas City Chiefs on Week:12on Day:Monday
+  Away Team Tennessee Titansplayed : Detroit Lions on Week:15on Day:Sunday
+  Away Team Tennessee Titansplayed : San Diego Chargers on Week:16on Day:Sunday
+  Away Team Tennessee Titansplayed : Indianapolis Colts on Week:17on Day:Sunday
+Team Buffalo Bills  : Games played at home
+  Home Team Buffalo Billsplayed : San Francisco 49ers on Week:5on Day:Sunday
+  Home Team Buffalo Billsplayed : Cleveland Browns on Week:7on Day:Sunday
+  Home Team Buffalo Billsplayed : New York Jets on Week:8on Day:Sunday
+  Home Team Buffalo Billsplayed : Arizona Cardinals on Week:11on Day:Monday
+  Home Team Buffalo Billsplayed : Tampa Bay Buccaneers on Week:14on Day:Sunday
+  Home Team Buffalo Billsplayed : Miami Dolphins on Week:15on Day:Sunday
+  Home Team Buffalo Billsplayed : New England Patriots on Week:16on Day:Sunday
+  Home Team Buffalo Billsplayed : Minnesota Vikings on Week:17on Day:Sunday
+Team Buffalo Bills  : Games played away
+  Away Team Buffalo Billsplayed : Tennessee Titans on Week:1on Day:Sunday
+  Away Team Buffalo Billsplayed : New England Patriots on Week:2on Day:Sunday
+  Away Team Buffalo Billsplayed : Cleveland Browns on Week:4on Day:Sunday
+  Away Team Buffalo Billsplayed : Miami Dolphins on Week:6on Day:Sunday
+  Away Team Buffalo Billsplayed : Detroit Lions on Week:9on Day:Monday
+  Away Team Buffalo Billsplayed : New York Jets on Week:10on Day:Sunday
+  Away Team Buffalo Billsplayed : Carolina Panthers on Week:12on Day:Sunday
+  Away Team Buffalo Billsplayed : Chicago Bears on Week:13on Day:Thursday
+Team Miami Dolphins  : Games played at home
+  Home Team Miami Dolphinsplayed : Washington Redskins on Week:1on Day:Sunday
+  Home Team Miami Dolphinsplayed : Houston Texans on Week:2on Day:Monday
+  Home Team Miami Dolphinsplayed : Cincinnati Bengals on Week:3on Day:Sunday
+  Home Team Miami Dolphinsplayed : Buffalo Bills on Week:6on Day:Sunday
+  Home Team Miami Dolphinsplayed : New York Jets on Week:7on Day:Sunday
+  Home Team Miami Dolphinsplayed : Cleveland Browns on Week:8on Day:Sunday
+  Home Team Miami Dolphinsplayed : New England Patriots on Week:11on Day:Sunday
+  Home Team Miami Dolphinsplayed : Oakland Raiders on Week:17on Day:Sunday
+Team Miami Dolphins  : Games played away
+  Away Team Miami Dolphinsplayed : Atlanta Falcons on Week:5on Day:Sunday
+  Away Team Miami Dolphinsplayed : Cincinnati Bengals on Week:9on Day:Monday
+  Away Team Miami Dolphinsplayed : New England Patriots on Week:10on Day:Monday
+  Away Team Miami Dolphinsplayed : New York Jets on Week:12on Day:Sunday
+  Away Team Miami Dolphinsplayed : Indianapolis Colts on Week:13on Day:Sunday
+  Away Team Miami Dolphinsplayed : Tennessee Titans on Week:14on Day:Sunday
+  Away Team Miami Dolphinsplayed : Buffalo Bills on Week:15on Day:Sunday
+  Away Team Miami Dolphinsplayed : Green Bay Packers on Week:16on Day:Monday
+Team New England Patriots  : Games played at home
+  Home Team New England Patriotsplayed : Buffalo Bills on Week:2on Day:Sunday
+  Home Team New England Patriotsplayed : Arizona Cardinals on Week:9on Day:Sunday
+  Home Team New England Patriotsplayed : Miami Dolphins on Week:10on Day:Monday
+  Home Team New England Patriotsplayed : Dallas Cowboys on Week:12on Day:Thursday
+  Home Team New England Patriotsplayed : New York Jets on Week:13on Day:Sunday
+  Home Team New England Patriotsplayed : New York Giants on Week:14on Day:Sunday
+  Home Team New England Patriotsplayed : Pittsburgh Steelers on Week:15on Day:Sunday
+  Home Team New England Patriotsplayed : San Diego Chargers on Week:17on Day:Sunday
+Team New England Patriots  : Games played away
+  Away Team New England Patriotsplayed : San Diego Chargers on Week:1on Day:Thursday
+  Away Team New England Patriotsplayed : Carolina Panthers on Week:4on Day:Sunday
+  Away Team New England Patriotsplayed : New York Jets on Week:5on Day:Sunday
+  Away Team New England Patriotsplayed : Seattle Seahawks on Week:6on Day:Sunday
+  Away Team New England Patriotsplayed : Tennessee Titans on Week:7on Day:Sunday
+  Away Team New England Patriotsplayed : Washington Redskins on Week:8on Day:Monday
+  Away Team New England Patriotsplayed : Miami Dolphins on Week:11on Day:Sunday
+  Away Team New England Patriotsplayed : Buffalo Bills on Week:16on Day:Sunday
+Team New York Jets  : Games played at home
+  Home Team New York Jetsplayed : New England Patriots on Week:5on Day:Sunday
+  Home Team New York Jetsplayed : San Diego Chargers on Week:6on Day:Sunday
+  Home Team New York Jetsplayed : New York Giants on Week:9on Day:Monday
+  Home Team New York Jetsplayed : Buffalo Bills on Week:10on Day:Sunday
+  Home Team New York Jetsplayed : Seattle Seahawks on Week:11on Day:Sunday
+  Home Team New York Jetsplayed : Miami Dolphins on Week:12on Day:Sunday
+  Home Team New York Jetsplayed : Oakland Raiders on Week:14on Day:Thursday
+  Home Team New York Jetsplayed : Houston Texans on Week:17on Day:Sunday
+Team New York Jets  : Games played away
+  Away Team New York Jetsplayed : Cincinnati Bengals on Week:1on Day:Sunday
+  Away Team New York Jetsplayed : Green Bay Packers on Week:2on Day:Sunday
+  Away Team New York Jetsplayed : Oakland Raiders on Week:4on Day:Sunday
+  Away Team New York Jetsplayed : Miami Dolphins on Week:7on Day:Sunday
+  Away Team New York Jetsplayed : Buffalo Bills on Week:8on Day:Sunday
+  Away Team New York Jetsplayed : New England Patriots on Week:13on Day:Sunday
+  Away Team New York Jetsplayed : San Francisco 49ers on Week:15on Day:Sunday
+  Away Team New York Jetsplayed : Minnesota Vikings on Week:16on Day:Sunday
+Team Denver Broncos  : Games played at home
+  Home Team Denver Broncosplayed : Chicago Bears on Week:1on Day:Sunday
+  Home Team Denver Broncosplayed : San Diego Chargers on Week:5on Day:Sunday
+  Home Team Denver Broncosplayed : Cleveland Browns on Week:9on Day:Thursday
+  Home Team Denver Broncosplayed : Oakland Raiders on Week:10on Day:Sunday
+  Home Team Denver Broncosplayed : New Orleans Saints on Week:11on Day:Monday
+  Home Team Denver Broncosplayed : Minnesota Vikings on Week:12on Day:Sunday
+  Home Team Denver Broncosplayed : Kansas City Chiefs on Week:13on Day:Sunday
+  Home Team Denver Broncosplayed : Baltimore Ravens on Week:14on Day:Sunday
+Team Denver Broncos  : Games played away
+  Away Team Denver Broncosplayed : Tampa Bay Buccaneers on Week:2on Day:Monday
+  Away Team Denver Broncosplayed : Oakland Raiders on Week:3on Day:Sunday
+  Away Team Denver Broncosplayed : New Orleans Saints on Week:6on Day:Sunday
+  Away Team Denver Broncosplayed : San Diego Chargers on Week:7on Day:Sunday
+  Away Team Denver Broncosplayed : Detroit Lions on Week:8on Day:Sunday
+  Away Team Denver Broncosplayed : Baltimore Ravens on Week:15on Day:Sunday
+  Away Team Denver Broncosplayed : Kansas City Chiefs on Week:16on Day:Sunday
+  Away Team Denver Broncosplayed : Jacksonville Jaguars on Week:17on Day:Sunday
+Team Kansas City Chiefs  : Games played at home
+  Home Team Kansas City Chiefsplayed : San Diego Chargers on Week:2on Day:Sunday
+  Home Team Kansas City Chiefsplayed : Oakland Raiders on Week:6on Day:Sunday
+  Home Team Kansas City Chiefsplayed : San Francisco 49ers on Week:7on Day:Sunday
+  Home Team Kansas City Chiefsplayed : Indianapolis Colts on Week:9on Day:Sunday
+  Home Team Kansas City Chiefsplayed : Tennessee Titans on Week:12on Day:Monday
+  Home Team Kansas City Chiefsplayed : Carolina Panthers on Week:14on Day:Sunday
+  Home Team Kansas City Chiefsplayed : Dallas Cowboys on Week:15on Day:Sunday
+  Home Team Kansas City Chiefsplayed : Denver Broncos on Week:16on Day:Sunday
+Team Kansas City Chiefs  : Games played away
+  Away Team Kansas City Chiefsplayed : Dallas Cowboys on Week:1on Day:Monday
+  Away Team Kansas City Chiefsplayed : Detroit Lions on Week:4on Day:Sunday
+  Away Team Kansas City Chiefsplayed : Arizona Cardinals on Week:5on Day:Monday
+  Away Team Kansas City Chiefsplayed : St. Louis Rams on Week:8on Day:Sunday
+  Away Team Kansas City Chiefsplayed : San Diego Chargers on Week:10on Day:Sunday
+  Away Team Kansas City Chiefsplayed : Oakland Raiders on Week:11on Day:Monday
+  Away Team Kansas City Chiefsplayed : Denver Broncos on Week:13on Day:Sunday
+  Away Team Kansas City Chiefsplayed : Chicago Bears on Week:17on Day:Sunday
+Team Oakland Raiders  : Games played at home
+  Home Team Oakland Raidersplayed : Philadelphia Eagles on Week:1on Day:Sunday
+  Home Team Oakland Raidersplayed : Cincinnati Bengals on Week:2on Day:Sunday
+  Home Team Oakland Raidersplayed : Denver Broncos on Week:3on Day:Sunday
+  Home Team Oakland Raidersplayed : New York Jets on Week:4on Day:Sunday
+  Home Team Oakland Raidersplayed : San Diego Chargers on Week:9on Day:Sunday
+  Home Team Oakland Raidersplayed : Kansas City Chiefs on Week:11on Day:Monday
+  Home Team Oakland Raidersplayed : Seattle Seahawks on Week:12on Day:Sunday
+  Home Team Oakland Raidersplayed : St. Louis Rams on Week:13on Day:Thursday
+Team Oakland Raiders  : Games played away
+  Away Team Oakland Raidersplayed : Kansas City Chiefs on Week:6on Day:Sunday
+  Away Team Oakland Raidersplayed : Minnesota Vikings on Week:7on Day:Sunday
+  Away Team Oakland Raidersplayed : San Diego Chargers on Week:8on Day:Monday
+  Away Team Oakland Raidersplayed : Denver Broncos on Week:10on Day:Sunday
+  Away Team Oakland Raidersplayed : New York Jets on Week:14on Day:Thursday
+  Away Team Oakland Raidersplayed : Arizona Cardinals on Week:15on Day:Sunday
+  Away Team Oakland Raidersplayed : Cincinnati Bengals on Week:16on Day:Sunday
+  Away Team Oakland Raidersplayed : Miami Dolphins on Week:17on Day:Sunday
+Team San Diego Chargers  : Games played at home
+  Home Team San Diego Chargersplayed : New England Patriots on Week:1on Day:Thursday
+  Home Team San Diego Chargersplayed : Denver Broncos on Week:7on Day:Sunday
+  Home Team San Diego Chargersplayed : Oakland Raiders on Week:8on Day:Monday
+  Home Team San Diego Chargersplayed : Kansas City Chiefs on Week:10on Day:Sunday
+  Home Team San Diego Chargersplayed : New York Giants on Week:12on Day:Sunday
+  Home Team San Diego Chargersplayed : San Francisco 49ers on Week:13on Day:Sunday
+  Home Team San Diego Chargersplayed : Cincinnati Bengals on Week:15on Day:Sunday
+  Home Team San Diego Chargersplayed : Tennessee Titans on Week:16on Day:Sunday
+Team San Diego Chargers  : Games played away
+  Away Team San Diego Chargersplayed : Kansas City Chiefs on Week:2on Day:Sunday
+  Away Team San Diego Chargersplayed : Tampa Bay Buccaneers on Week:4on Day:Sunday
+  Away Team San Diego Chargersplayed : Denver Broncos on Week:5on Day:Sunday
+  Away Team San Diego Chargersplayed : New York Jets on Week:6on Day:Sunday
+  Away Team San Diego Chargersplayed : Oakland Raiders on Week:9on Day:Sunday
+  Away Team San Diego Chargersplayed : San Francisco 49ers on Week:11on Day:Monday
+  Away Team San Diego Chargersplayed : Dallas Cowboys on Week:14on Day:Sunday
+  Away Team San Diego Chargersplayed : New England Patriots on Week:17on Day:Sunday
+Team Chicago Bears  : Games played at home
+  Home Team Chicago Bearsplayed : Green Bay Packers on Week:3on Day:Sunday
+  Home Team Chicago Bearsplayed : Pittsburgh Steelers on Week:4on Day:Sunday
+  Home Team Chicago Bearsplayed : New Orleans Saints on Week:8on Day:Sunday
+  Home Team Chicago Bearsplayed : Minnesota Vikings on Week:10on Day:Sunday
+  Home Team Chicago Bearsplayed : Detroit Lions on Week:12on Day:Sunday
+  Home Team Chicago Bearsplayed : Buffalo Bills on Week:13on Day:Thursday
+  Home Team Chicago Bearsplayed : Philadelphia Eagles on Week:14on Day:Monday
+  Home Team Chicago Bearsplayed : Kansas City Chiefs on Week:17on Day:Sunday
+Team Chicago Bears  : Games played away
+  Away Team Chicago Bearsplayed : Denver Broncos on Week:1on Day:Sunday
+  Away Team Chicago Bearsplayed : Philadelphia Eagles on Week:2on Day:Thursday
+  Away Team Chicago Bearsplayed : Cleveland Browns on Week:6on Day:Monday
+  Away Team Chicago Bearsplayed : Seattle Seahawks on Week:7on Day:Sunday
+  Away Team Chicago Bearsplayed : Green Bay Packers on Week:9on Day:Sunday
+  Away Team Chicago Bearsplayed : Minnesota Vikings on Week:11on Day:Sunday
+  Away Team Chicago Bearsplayed : New York Giants on Week:15on Day:Sunday
+  Away Team Chicago Bearsplayed : Detroit Lions on Week:16on Day:Sunday
+Team Detroit Lions  : Games played at home
+  Home Team Detroit Lionsplayed : Atlanta Falcons on Week:2on Day:Sunday
+  Home Team Detroit Lionsplayed : Kansas City Chiefs on Week:4on Day:Sunday
+  Home Team Detroit Lionsplayed : Denver Broncos on Week:8on Day:Sunday
+  Home Team Detroit Lionsplayed : Buffalo Bills on Week:9on Day:Monday
+  Home Team Detroit Lionsplayed : Green Bay Packers on Week:11on Day:Sunday
+  Home Team Detroit Lionsplayed : Minnesota Vikings on Week:13on Day:Thursday
+  Home Team Detroit Lionsplayed : Tennessee Titans on Week:15on Day:Sunday
+  Home Team Detroit Lionsplayed : Chicago Bears on Week:16on Day:Sunday
+Team Detroit Lions  : Games played away
+  Away Team Detroit Lionsplayed : New York Giants on Week:1on Day:Sunday
+  Away Team Detroit Lionsplayed : Minnesota Vikings on Week:3on Day:Sunday
+  Away Team Detroit Lionsplayed : Carolina Panthers on Week:5on Day:Monday
+  Away Team Detroit Lionsplayed : Indianapolis Colts on Week:6on Day:Sunday
+  Away Team Detroit Lionsplayed : Pittsburgh Steelers on Week:10on Day:Sunday
+  Away Team Detroit Lionsplayed : Chicago Bears on Week:12on Day:Sunday
+  Away Team Detroit Lionsplayed : Green Bay Packers on Week:14on Day:Sunday
+  Away Team Detroit Lionsplayed : Tampa Bay Buccaneers on Week:17on Day:Sunday
+Team Green Bay Packers  : Games played at home
+  Home Team Green Bay Packersplayed : Minnesota Vikings on Week:1on Day:Sunday
+  Home Team Green Bay Packersplayed : New York Jets on Week:2on Day:Sunday
+  Home Team Green Bay Packersplayed : Chicago Bears on Week:9on Day:Sunday
+  Home Team Green Bay Packersplayed : Jacksonville Jaguars on Week:10on Day:Sunday
+  Home Team Green Bay Packersplayed : Indianapolis Colts on Week:12on Day:Sunday
+  Home Team Green Bay Packersplayed : Baltimore Ravens on Week:13on Day:Sunday
+  Home Team Green Bay Packersplayed : Detroit Lions on Week:14on Day:Sunday
+  Home Team Green Bay Packersplayed : Miami Dolphins on Week:16on Day:Monday
+Team Green Bay Packers  : Games played away
+  Away Team Green Bay Packersplayed : Chicago Bears on Week:3on Day:Sunday
+  Away Team Green Bay Packersplayed : Seattle Seahawks on Week:4on Day:Monday
+  Away Team Green Bay Packersplayed : Washington Redskins on Week:5on Day:Sunday
+  Away Team Green Bay Packersplayed : Jacksonville Jaguars on Week:7on Day:Monday
+  Away Team Green Bay Packersplayed : Minnesota Vikings on Week:8on Day:Monday
+  Away Team Green Bay Packersplayed : Detroit Lions on Week:11on Day:Sunday
+  Away Team Green Bay Packersplayed : Houston Texans on Week:15on Day:Monday
+  Away Team Green Bay Packersplayed : New Orleans Saints on Week:17on Day:Sunday
+Team Minnesota Vikings  : Games played at home
+  Home Team Minnesota Vikingsplayed : Detroit Lions on Week:3on Day:Sunday
+  Home Team Minnesota Vikingsplayed : Dallas Cowboys on Week:4on Day:Thursday
+  Home Team Minnesota Vikingsplayed : Baltimore Ravens on Week:5on Day:Sunday
+  Home Team Minnesota Vikingsplayed : Oakland Raiders on Week:7on Day:Sunday
+  Home Team Minnesota Vikingsplayed : Green Bay Packers on Week:8on Day:Monday
+  Home Team Minnesota Vikingsplayed : Houston Texans on Week:9on Day:Sunday
+  Home Team Minnesota Vikingsplayed : Chicago Bears on Week:11on Day:Sunday
+  Home Team Minnesota Vikingsplayed : New York Jets on Week:16on Day:Sunday
+Team Minnesota Vikings  : Games played away
+  Away Team Minnesota Vikingsplayed : Green Bay Packers on Week:1on Day:Sunday
+  Away Team Minnesota Vikingsplayed : Jacksonville Jaguars on Week:2on Day:Sunday
+  Away Team Minnesota Vikingsplayed : Chicago Bears on Week:10on Day:Sunday
+  Away Team Minnesota Vikingsplayed : Denver Broncos on Week:12on Day:Sunday
+  Away Team Minnesota Vikingsplayed : Detroit Lions on Week:13on Day:Thursday
+  Away Team Minnesota Vikingsplayed : Houston Texans on Week:14on Day:Sunday
+  Away Team Minnesota Vikingsplayed : Washington Redskins on Week:15on Day:Sunday
+  Away Team Minnesota Vikingsplayed : Buffalo Bills on Week:17on Day:Sunday
+Team Atlanta Falcons  : Games played at home
+  Home Team Atlanta Falconsplayed : Cleveland Browns on Week:1on Day:Sunday
+  Home Team Atlanta Falconsplayed : New Orleans Saints on Week:3on Day:Sunday
+  Home Team Atlanta Falconsplayed : Miami Dolphins on Week:5on Day:Sunday
+  Home Team Atlanta Falconsplayed : Philadelphia Eagles on Week:7on Day:Sunday
+  Home Team Atlanta Falconsplayed : Seattle Seahawks on Week:8on Day:Monday
+  Home Team Atlanta Falconsplayed : Tampa Bay Buccaneers on Week:11on Day:Sunday
+  Home Team Atlanta Falconsplayed : Cincinnati Bengals on Week:13on Day:Sunday
+  Home Team Atlanta Falconsplayed : Carolina Panthers on Week:17on Day:Sunday
+Team Atlanta Falcons  : Games played away
+  Away Team Atlanta Falconsplayed : Detroit Lions on Week:2on Day:Sunday
+  Away Team Atlanta Falconsplayed : Houston Texans on Week:4on Day:Sunday
+  Away Team Atlanta Falconsplayed : Carolina Panthers on Week:6on Day:Sunday
+  Away Team Atlanta Falconsplayed : Tampa Bay Buccaneers on Week:9on Day:Sunday
+  Away Team Atlanta Falconsplayed : Washington Redskins on Week:12on Day:Sunday
+  Away Team Atlanta Falconsplayed : New Orleans Saints on Week:14on Day:Sunday
+  Away Team Atlanta Falconsplayed : Cleveland Browns on Week:15on Day:Thursday
+  Away Team Atlanta Falconsplayed : New York Giants on Week:16on Day:Sunday
+Team Carolina Panthers  : Games played at home
+  Home Team Carolina Panthersplayed : New Orleans Saints on Week:2on Day:Sunday
+  Home Team Carolina Panthersplayed : Jacksonville Jaguars on Week:3on Day:Sunday
+  Home Team Carolina Panthersplayed : New England Patriots on Week:4on Day:Sunday
+  Home Team Carolina Panthersplayed : Detroit Lions on Week:5on Day:Monday
+  Home Team Carolina Panthersplayed : Atlanta Falcons on Week:6on Day:Sunday
+  Home Team Carolina Panthersplayed : Baltimore Ravens on Week:8on Day:Sunday
+  Home Team Carolina Panthersplayed : Tampa Bay Buccaneers on Week:10on Day:Sunday
+  Home Team Carolina Panthersplayed : Buffalo Bills on Week:12on Day:Sunday
+Team Carolina Panthers  : Games played away
+  Away Team Carolina Panthersplayed : Tampa Bay Buccaneers on Week:1on Day:Sunday
+  Away Team Carolina Panthersplayed : New Orleans Saints on Week:7on Day:Sunday
+  Away Team Carolina Panthersplayed : Cincinnati Bengals on Week:11on Day:Thursday
+  Away Team Carolina Panthersplayed : Arizona Cardinals on Week:13on Day:Sunday
+  Away Team Carolina Panthersplayed : Kansas City Chiefs on Week:14on Day:Sunday
+  Away Team Carolina Panthersplayed : Philadelphia Eagles on Week:15on Day:Sunday
+  Away Team Carolina Panthersplayed : Baltimore Ravens on Week:16on Day:Sunday
+  Away Team Carolina Panthersplayed : Atlanta Falcons on Week:17on Day:Sunday
+Team New Orleans Saints  : Games played at home
+  Home Team New Orleans Saintsplayed : Jacksonville Jaguars on Week:1on Day:Sunday
+  Home Team New Orleans Saintsplayed : Denver Broncos on Week:6on Day:Sunday
+  Home Team New Orleans Saintsplayed : Carolina Panthers on Week:7on Day:Sunday
+  Home Team New Orleans Saintsplayed : Tennessee Titans on Week:9on Day:Sunday
+  Home Team New Orleans Saintsplayed : Atlanta Falcons on Week:14on Day:Sunday
+  Home Team New Orleans Saintsplayed : Indianapolis Colts on Week:15on Day:Monday
+  Home Team New Orleans Saintsplayed : Tampa Bay Buccaneers on Week:16on Day:Sunday
+  Home Team New Orleans Saintsplayed : Green Bay Packers on Week:17on Day:Sunday
+Team New Orleans Saints  : Games played away
+  Away Team New Orleans Saintsplayed : Carolina Panthers on Week:2on Day:Sunday
+  Away Team New Orleans Saintsplayed : Atlanta Falcons on Week:3on Day:Sunday
+  Away Team New Orleans Saintsplayed : Cleveland Browns on Week:5on Day:Sunday
+  Away Team New Orleans Saintsplayed : Chicago Bears on Week:8on Day:Sunday
+  Away Team New Orleans Saintsplayed : St. Louis Rams on Week:10on Day:Thursday
+  Away Team New Orleans Saintsplayed : Denver Broncos on Week:11on Day:Monday
+  Away Team New Orleans Saintsplayed : Tampa Bay Buccaneers on Week:12on Day:Sunday
+  Away Team New Orleans Saintsplayed : Dallas Cowboys on Week:13on Day:Sunday
+Team Tampa Bay Buccaneers  : Games played at home
+  Home Team Tampa Bay Buccaneersplayed : Carolina Panthers on Week:1on Day:Sunday
+  Home Team Tampa Bay Buccaneersplayed : Denver Broncos on Week:2on Day:Monday
+  Home Team Tampa Bay Buccaneersplayed : San Diego Chargers on Week:4on Day:Sunday
+  Home Team Tampa Bay Buccaneersplayed : San Francisco 49ers on Week:8on Day:Sunday
+  Home Team Tampa Bay Buccaneersplayed : Atlanta Falcons on Week:9on Day:Sunday
+  Home Team Tampa Bay Buccaneersplayed : New Orleans Saints on Week:12on Day:Sunday
+  Home Team Tampa Bay Buccaneersplayed : Jacksonville Jaguars on Week:15on Day:Sunday
+  Home Team Tampa Bay Buccaneersplayed : Detroit Lions on Week:17on Day:Sunday
+Team Tampa Bay Buccaneers  : Games played away
+  Away Team Tampa Bay Buccaneersplayed : Philadelphia Eagles on Week:5on Day:Sunday
+  Away Team Tampa Bay Buccaneersplayed : Pittsburgh Steelers on Week:6on Day:Monday
+  Away Team Tampa Bay Buccaneersplayed : Dallas Cowboys on Week:7on Day:Sunday
+  Away Team Tampa Bay Buccaneersplayed : Carolina Panthers on Week:10on Day:Sunday
+  Away Team Tampa Bay Buccaneersplayed : Atlanta Falcons on Week:11on Day:Sunday
+  Away Team Tampa Bay Buccaneersplayed : New York Giants on Week:13on Day:Sunday
+  Away Team Tampa Bay Buccaneersplayed : Buffalo Bills on Week:14on Day:Sunday
+  Away Team Tampa Bay Buccaneersplayed : New Orleans Saints on Week:16on Day:Sunday
+Team Dallas Cowboys  : Games played at home
+  Home Team Dallas Cowboysplayed : Kansas City Chiefs on Week:1on Day:Monday
+  Home Team Dallas Cowboysplayed : Philadelphia Eagles on Week:3on Day:Sunday
+  Home Team Dallas Cowboysplayed : New York Giants on Week:5on Day:Thursday
+  Home Team Dallas Cowboysplayed : Tampa Bay Buccaneers on Week:7on Day:Sunday
+  Home Team Dallas Cowboysplayed : Jacksonville Jaguars on Week:9on Day:Sunday
+  Home Team Dallas Cowboysplayed : New Orleans Saints on Week:13on Day:Sunday
+  Home Team Dallas Cowboysplayed : San Diego Chargers on Week:14on Day:Sunday
+  Home Team Dallas Cowboysplayed : Washington Redskins on Week:17on Day:Sunday
+Team Dallas Cowboys  : Games played away
+  Away Team Dallas Cowboysplayed : New York Giants on Week:2on Day:Sunday
+  Away Team Dallas Cowboysplayed : Minnesota Vikings on Week:4on Day:Thursday
+  Away Team Dallas Cowboysplayed : Arizona Cardinals on Week:8on Day:Thursday
+  Away Team Dallas Cowboysplayed : Washington Redskins on Week:10on Day:Sunday
+  Away Team Dallas Cowboysplayed : Philadelphia Eagles on Week:11on Day:Sunday
+  Away Team Dallas Cowboysplayed : New England Patriots on Week:12on Day:Thursday
+  Away Team Dallas Cowboysplayed : Kansas City Chiefs on Week:15on Day:Sunday
+  Away Team Dallas Cowboysplayed : Seattle Seahawks on Week:16on Day:Sunday
+Team New York Giants  : Games played at home
+  Home Team New York Giantsplayed : Detroit Lions on Week:1on Day:Sunday
+  Home Team New York Giantsplayed : Dallas Cowboys on Week:2on Day:Sunday
+  Home Team New York Giantsplayed : Washington Redskins on Week:3on Day:Monday
+  Home Team New York Giantsplayed : Arizona Cardinals on Week:7on Day:Thursday
+  Home Team New York Giantsplayed : Philadelphia Eagles on Week:8on Day:Sunday
+  Home Team New York Giantsplayed : Tampa Bay Buccaneers on Week:13on Day:Sunday
+  Home Team New York Giantsplayed : Chicago Bears on Week:15on Day:Sunday
+  Home Team New York Giantsplayed : Atlanta Falcons on Week:16on Day:Sunday
+Team New York Giants  : Games played away
+  Away Team New York Giantsplayed : Jacksonville Jaguars on Week:4on Day:Sunday
+  Away Team New York Giantsplayed : Dallas Cowboys on Week:5on Day:Thursday
+  Away Team New York Giantsplayed : New York Jets on Week:9on Day:Monday
+  Away Team New York Giantsplayed : Indianapolis Colts on Week:10on Day:Monday
+  Away Team New York Giantsplayed : Washington Redskins on Week:11on Day:Sunday
+  Away Team New York Giantsplayed : San Diego Chargers on Week:12on Day:Sunday
+  Away Team New York Giantsplayed : New England Patriots on Week:14on Day:Sunday
+  Away Team New York Giantsplayed : Philadelphia Eagles on Week:17on Day:Sunday
+Team Philadelphia Eagles  : Games played at home
+  Home Team Philadelphia Eaglesplayed : Chicago Bears on Week:2on Day:Thursday
+  Home Team Philadelphia Eaglesplayed : Tampa Bay Buccaneers on Week:5on Day:Sunday
+  Home Team Philadelphia Eaglesplayed : Houston Texans on Week:6on Day:Monday
+  Home Team Philadelphia Eaglesplayed : Pittsburgh Steelers on Week:9on Day:Sunday
+  Home Team Philadelphia Eaglesplayed : Dallas Cowboys on Week:11on Day:Sunday
+  Home Team Philadelphia Eaglesplayed : Washington Redskins on Week:13on Day:Sunday
+  Home Team Philadelphia Eaglesplayed : Carolina Panthers on Week:15on Day:Sunday
+  Home Team Philadelphia Eaglesplayed : New York Giants on Week:17on Day:Sunday
+Team Philadelphia Eagles  : Games played away
+  Away Team Philadelphia Eaglesplayed : Oakland Raiders on Week:1on Day:Sunday
+  Away Team Philadelphia Eaglesplayed : Dallas Cowboys on Week:3on Day:Sunday
+  Away Team Philadelphia Eaglesplayed : Atlanta Falcons on Week:7on Day:Sunday
+  Away Team Philadelphia Eaglesplayed : New York Giants on Week:8on Day:Sunday
+  Away Team Philadelphia Eaglesplayed : Baltimore Ravens on Week:10on Day:Sunday
+  Away Team Philadelphia Eaglesplayed : Jacksonville Jaguars on Week:12on Day:Sunday
+  Away Team Philadelphia Eaglesplayed : Chicago Bears on Week:14on Day:Monday
+  Away Team Philadelphia Eaglesplayed : Washington Redskins on Week:16on Day:Sunday
+Team Washington Redskins  : Games played at home
+  Home Team Washington Redskinsplayed : Green Bay Packers on Week:5on Day:Sunday
+  Home Team Washington Redskinsplayed : St. Louis Rams on Week:6on Day:Thursday
+  Home Team Washington Redskinsplayed : New England Patriots on Week:8on Day:Monday
+  Home Team Washington Redskinsplayed : Dallas Cowboys on Week:10on Day:Sunday
+  Home Team Washington Redskinsplayed : New York Giants on Week:11on Day:Sunday
+  Home Team Washington Redskinsplayed : Atlanta Falcons on Week:12on Day:Sunday
+  Home Team Washington Redskinsplayed : Minnesota Vikings on Week:15on Day:Sunday
+  Home Team Washington Redskinsplayed : Philadelphia Eagles on Week:16on Day:Sunday
+Team Washington Redskins  : Games played away
+  Away Team Washington Redskinsplayed : Miami Dolphins on Week:1on Day:Sunday
+  Away Team Washington Redskinsplayed : St. Louis Rams on Week:2on Day:Sunday
+  Away Team Washington Redskinsplayed : New York Giants on Week:3on Day:Monday
+  Away Team Washington Redskinsplayed : Tennessee Titans on Week:4on Day:Sunday
+  Away Team Washington Redskinsplayed : Baltimore Ravens on Week:7on Day:Sunday
+  Away Team Washington Redskinsplayed : Philadelphia Eagles on Week:13on Day:Sunday
+  Away Team Washington Redskinsplayed : San Francisco 49ers on Week:14on Day:Sunday
+  Away Team Washington Redskinsplayed : Dallas Cowboys on Week:17on Day:Sunday
+Team Arizona Cardinals  : Games played at home
+  Home Team Arizona Cardinalsplayed : Cleveland Browns on Week:2on Day:Sunday
+  Home Team Arizona Cardinalsplayed : Kansas City Chiefs on Week:5on Day:Monday
+  Home Team Arizona Cardinalsplayed : San Francisco 49ers on Week:6on Day:Sunday
+  Home Team Arizona Cardinalsplayed : Dallas Cowboys on Week:8on Day:Thursday
+  Home Team Arizona Cardinalsplayed : Carolina Panthers on Week:13on Day:Sunday
+  Home Team Arizona Cardinalsplayed : Oakland Raiders on Week:15on Day:Sunday
+  Home Team Arizona Cardinalsplayed : St. Louis Rams on Week:16on Day:Sunday
+  Home Team Arizona Cardinalsplayed : Seattle Seahawks on Week:17on Day:Sunday
+Team Arizona Cardinals  : Games played away
+  Away Team Arizona Cardinalsplayed : San Francisco 49ers on Week:1on Day:Sunday
+  Away Team Arizona Cardinalsplayed : Indianapolis Colts on Week:3on Day:Sunday
+  Away Team Arizona Cardinalsplayed : New York Giants on Week:7on Day:Thursday
+  Away Team Arizona Cardinalsplayed : New England Patriots on Week:9on Day:Sunday
+  Away Team Arizona Cardinalsplayed : Seattle Seahawks on Week:10on Day:Sunday
+  Away Team Arizona Cardinalsplayed : Buffalo Bills on Week:11on Day:Monday
+  Away Team Arizona Cardinalsplayed : St. Louis Rams on Week:12on Day:Sunday
+  Away Team Arizona Cardinalsplayed : Pittsburgh Steelers on Week:14on Day:Sunday
+Team San Francisco 49ers  : Games played at home
+  Home Team San Francisco 49ersplayed : Arizona Cardinals on Week:1on Day:Sunday
+  Home Team San Francisco 49ersplayed : Seattle Seahawks on Week:2on Day:Sunday
+  Home Team San Francisco 49ersplayed : Baltimore Ravens on Week:3on Day:Sunday
+  Home Team San Francisco 49ersplayed : St. Louis Rams on Week:4on Day:Sunday
+  Home Team San Francisco 49ersplayed : San Diego Chargers on Week:11on Day:Monday
+  Home Team San Francisco 49ersplayed : Washington Redskins on Week:14on Day:Sunday
+  Home Team San Francisco 49ersplayed : New York Jets on Week:15on Day:Sunday
+  Home Team San Francisco 49ersplayed : Indianapolis Colts on Week:16on Day:Sunday
+Team San Francisco 49ers  : Games played away
+  Away Team San Francisco 49ersplayed : Buffalo Bills on Week:5on Day:Sunday
+  Away Team San Francisco 49ersplayed : Arizona Cardinals on Week:6on Day:Sunday
+  Away Team San Francisco 49ersplayed : Kansas City Chiefs on Week:7on Day:Sunday
+  Away Team San Francisco 49ersplayed : Tampa Bay Buccaneers on Week:8on Day:Sunday
+  Away Team San Francisco 49ersplayed : Seattle Seahawks on Week:9on Day:Sunday
+  Away Team San Francisco 49ersplayed : Houston Texans on Week:12on Day:Sunday
+  Away Team San Francisco 49ersplayed : San Diego Chargers on Week:13on Day:Sunday
+  Away Team San Francisco 49ersplayed : St. Louis Rams on Week:17on Day:Sunday
+Team Seattle Seahawks  : Games played at home
+  Home Team Seattle Seahawksplayed : Pittsburgh Steelers on Week:3on Day:Thursday
+  Home Team Seattle Seahawksplayed : Green Bay Packers on Week:4on Day:Monday
+  Home Team Seattle Seahawksplayed : New England Patriots on Week:6on Day:Sunday
+  Home Team Seattle Seahawksplayed : Chicago Bears on Week:7on Day:Sunday
+  Home Team Seattle Seahawksplayed : San Francisco 49ers on Week:9on Day:Sunday
+  Home Team Seattle Seahawksplayed : Arizona Cardinals on Week:10on Day:Sunday
+  Home Team Seattle Seahawksplayed : St. Louis Rams on Week:15on Day:Sunday
+  Home Team Seattle Seahawksplayed : Dallas Cowboys on Week:16on Day:Sunday
+Team Seattle Seahawks  : Games played away
+  Away Team Seattle Seahawksplayed : St. Louis Rams on Week:1on Day:Sunday
+  Away Team Seattle Seahawksplayed : San Francisco 49ers on Week:2on Day:Sunday
+  Away Team Seattle Seahawksplayed : Atlanta Falcons on Week:8on Day:Monday
+  Away Team Seattle Seahawksplayed : New York Jets on Week:11on Day:Sunday
+  Away Team Seattle Seahawksplayed : Oakland Raiders on Week:12on Day:Sunday
+  Away Team Seattle Seahawksplayed : Houston Texans on Week:13on Day:Sunday
+  Away Team Seattle Seahawksplayed : Cincinnati Bengals on Week:14on Day:Sunday
+  Away Team Seattle Seahawksplayed : Arizona Cardinals on Week:17on Day:Sunday
+Team St. Louis Rams  : Games played at home
+  Home Team St. Louis Ramsplayed : Seattle Seahawks on Week:1on Day:Sunday
+  Home Team St. Louis Ramsplayed : Washington Redskins on Week:2on Day:Sunday
+  Home Team St. Louis Ramsplayed : Houston Texans on Week:3on Day:Monday
+  Home Team St. Louis Ramsplayed : Cincinnati Bengals on Week:7on Day:Sunday
+  Home Team St. Louis Ramsplayed : Kansas City Chiefs on Week:8on Day:Sunday
+  Home Team St. Louis Ramsplayed : New Orleans Saints on Week:10on Day:Thursday
+  Home Team St. Louis Ramsplayed : Arizona Cardinals on Week:12on Day:Sunday
+  Home Team St. Louis Ramsplayed : San Francisco 49ers on Week:17on Day:Sunday
+Team St. Louis Rams  : Games played away
+  Away Team St. Louis Ramsplayed : San Francisco 49ers on Week:4on Day:Sunday
+  Away Team St. Louis Ramsplayed : Pittsburgh Steelers on Week:5on Day:Sunday
+  Away Team St. Louis Ramsplayed : Washington Redskins on Week:6on Day:Thursday
+  Away Team St. Louis Ramsplayed : Tennessee Titans on Week:11on Day:Sunday
+  Away Team St. Louis Ramsplayed : Oakland Raiders on Week:13on Day:Thursday
+  Away Team St. Louis Ramsplayed : Cleveland Browns on Week:14on Day:Sunday
+  Away Team St. Louis Ramsplayed : Seattle Seahawks on Week:15on Day:Sunday
+  Away Team St. Louis Ramsplayed : Arizona Cardinals on Week:16on Day:Sunday
